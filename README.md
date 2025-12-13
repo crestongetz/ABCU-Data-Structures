@@ -38,7 +38,7 @@ This section highlights the key takeaways and demonstrated skills from the proje
 5. Run Program
 
 ## Repository Files
-| `ProjectTwo_CS300.cpp` | C++ implementation of the recommended Vector data structure solution. |
-| [`ABCU-Pseudocode-Document-and-Runtime-Analysis.pdf`](ABCU-Pseudocode-Document-and-Runtime-Analysis.pdf) | Detailed runtime analysis and initial data structure suggestion (Vector). |
-| `CS 300 ABCU_Advising_Program_Input.csv` | Sample input file used for testing the advising program. |
-| `CS 300 Course Information.pdf` | PDF explaining how to input csv is structured. Includes a flow chart of curriculum. |
+- | `ProjectTwo_CS300.cpp` | C++ implementation of the recommended Vector data structure solution. |
+- | [`ABCU-Pseudocode-Document-and-Runtime-Analysis.pdf`](ABCU-Pseudocode-Document-and-Runtime-Analysis.pdf) | Detailed runtime analysis and initial data structure suggestion (Vector). |
+- | `CS 300 ABCU_Advising_Program_Input.csv` | Sample input file used for testing the advising program. |
+- | `CS 300 Course Information.pdf` | PDF explaining how to input csv is structured. Includes a flow chart of curriculum. |
