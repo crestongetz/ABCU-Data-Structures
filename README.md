@@ -2,7 +2,7 @@
 ## Overview
 This project, developed for the CS-300 Data Structures and Algorithms course, focuses on determining and implementing the optimal data structure for storing course information for the Computer Science department at ABCU (a fictional university).
 
-## ✨ Key Deliverables & Outcome
+## Key Deliverables & Outcome
 
 - **Problem Solved:** Determining the **most efficient data structure** (Vector, Hash Table, or Binary Search Tree) to store and manage course data for the ABCU advising department.
 - **Recommendation:** A **Vector** data structure was recommended after a detailed pros/cons analysis and runtime evaluation.
@@ -13,7 +13,7 @@ This project, developed for the CS-300 Data Structures and Algorithms course, fo
 - C++
 - Data Strucutres (e.g. Vector, Hash Table, Binary Search Tree, and more)
 
-## 🧠 Technical Insights & Learning
+## Technical Insights & Learning
 
 This section highlights the key takeaways and demonstrated skills from the project.
 
